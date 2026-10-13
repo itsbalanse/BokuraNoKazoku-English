@@ -1,0 +1,306 @@
+29	<SUB>	第%s話	Episode %s
+30	<SUB>	@s13@0%s％	@s13@0%s％
+45	<SUB>	@s4　@s20	@s10　@s20
+45	<SUB>	@s19と@s20	@s19 & @s20
+183	<SUB>	家族の記録を選ぶ	Choose a Family Album
+216	<SUB>	２０%s／%s／%s	20%s/%s/%s
+217	<SUB>	第%s話	Episode %s
+219	<SUB>	%s歳	Age %s
+221	<SUB>	１）%s	1) %s
+222	<SUB>	２）%s	2) %s
+223	<SUB>	３）%s	3) %s
+224	<SUB>	４）%s	4) %s
+225	<SUB>	５）%s	5) %s
+226	<SUB>	６）%s	6) %s
+227	<SUB>	%s歳	Age %s
+228	<SUB>	%s歳	Age %s
+229	<SUB>	%s歳	Age %s
+230	<SUB>	%s歳	Age %s
+231	<SUB>	%s歳	Age %s
+232	<SUB>	%s歳	Age %s
+247	<SUB>	男の子	Boy
+248	<SUB>	女の子	Girl
+249	<SUB>	乳幼児	Infant
+250	<SUB>	幼児	Toddler
+251	<SUB>	%s年	Gr. %s
+264	<SUB>	@s19赤ん坊（%s%s）の@n@s4　@n@s20名前を決めてください。	@s19Please name the baby@n@s4　@n@s20(%s%s).
+279	<SUB>	赤ん坊（%s%s）の名前	Baby %s%s's name
+312	<SUB>	この名前でいいですか？	Is this name okay?
+324	<SUB>	春	Spring
+333	<SUB>	　　最初の	First
+334	<SUB>	　%s年目の	Year %s，
+335	<SUB>	%s年目の	Year %s，
+336	<SUB>	　　最後の	Final
+350	<SUB>	春	Spring
+351	<SUB>	夏	Summer
+352	<SUB>	秋	Autumn
+353	<SUB>	冬	Winter
+354	<SUB>	　　最初の	First
+355	<SUB>	　%s年目の	Year %s，
+356	<SUB>	%s年目の	Year %s，
+357	<SUB>	　　最後の	Final
+388	<SUB>	子供の様子や写真などを見る	See how the kids are doing， photos， and more
+389	<SUB>	行動を選ばず、次へ進む	Move on without choosing an action
+390	<SUB>	画面や音、操作の設定の変更	Change screen， sound， and control settings
+429	<SUB>	家族の日記を見る	Read the Family Diary
+430	<SUB>	設@d6定	Settings
+431	<SUB>	なすがまま	Let It Be
+494	<SUB>	　　最初の春%s	First Spring%s
+495	<SUB>	　　最後の春%s	Final Spring%s
+496	<SUB>	%s年目の%s%s	Year %s， %s%s
+597	<SUB>	%s＊%s	%s＊%s
+619	<SUB>	@0%s歳	@0Age %s
+706	<SUB>	赤ん坊（%s%s）の名前	Baby %s%s's name
+765	<SUB>	これはあなたの%sまでの@n　お給料の額を決めるテストです。	This test decides your salary@nuntil %s.
+788	<SUB>	今回は%sテスト	This time: %s test
+824	<SUB>	クリア率	Clear Rate
+830	<SUB>	不成功	Failed
+854	<SUB>	本年度の入金	This Year's Income
+1089	<SUB>	%sになった%sに@nどの本を与えますか？	Now %s: which book@nshould %s get?
+1090	<SUB>	%sをどの%sに@n入学させますか？	%s: which %s@nshould they enter?
+1091	<SUB>	%sをどこに@n進学させますか？	%s: where should@nthey go next?
+1092	<SUB>	%sの%sに@nどの部活動を薦めますか？	%s / %s:@nwhich club do you suggest?
+1093	<SUB>	%sの%sに@nどのアルバイトを薦めますか？	%s / %s:@nwhich part-time job?
+1094	<SUB>	%sにどの職業に@n就くことを薦めますか？	%s: which career@ndo you suggest?
+1095	<SUB>	１年後%sをどの%s@nに進学させますか？	In a year， %s: which@n%s should they enter?
+1096	<SUB>	１年後%sをどこに@n進学させますか？	In a year， where should@n%s go next?
+1097	<SUB>	１年後%sにどの職業に@n就くことを薦めますか？	In a year， which career@nfor %s?
+1208	<SUB>	学校案内	School Guide
+1216	<SUB>	@0%s歳	@0Age %s
+1234	<SUB>	部活動紹介	Club Guide
+1239	<SUB>	@0%s歳	@0Age %s
+1256	<SUB>	求人票	Job Listing
+1261	<SUB>	@0%s歳	@0Age %s
+1277	<SUB>	求人票	Job Listing
+1278	<SUB>	バイト収入	Wages
+1283	<SUB>	@0%s歳	@0Age %s
+1299	<SUB>	本の紹介	Book Guide
+1307	<SUB>	@0%s歳	@0Age %s
+1311	<SUB>	関心 %s→%s	Interest %s→%s
+1323	<SUB>	入学金＋授業料%s年間＝	Fees for %s yrs =
+1340	<SUB>	はのびのび学園初等部に@n行くことになった。	 will attend@nNobinobi Academy Elementary.
+1341	<SUB>	はのびのび学園初等部に@n行くことができなかった。	 couldn't get into@nNobinobi Academy Elementary.
+1414	<SUB>	年間＝	 yrs =
+1510	<SUB>	文系	Lit
+1511	<SUB>	理系	Sci
+1512	<SUB>	美術	Art
+1513	<SUB>	体育@s15@0(スポーツ)	PE@s15@0 (Sports)
+1514	<SUB>	方向キー左右で年齢変更	Left-Right: change age
+1514	<SUB>	戻る	Back
+1560	<SUB>	家計簿	Household Budget
+1561	<SUB>	本年度	This Year
+1562	<SUB>	合計給与額	Total Salary
+1563	<SUB>	アルバイト	Part-time Job
+1564	<SUB>	その他収入	Other Income
+1565	<SUB>	収入合計	Total Income
+1566	<SUB>	支出合計	Total Expenses
+1567	<SUB>	昨年度の繰越	Carried Over
+1568	<SUB>	人生経験率	Life Experience
+1569	<SUB>	Ａ）ちょっと子だくさん	A) A Few Kids
+1570	<SUB>	Ｂ）それなりに子だくさん	B) A Fair Few Kids
+1571	<SUB>	Ｃ）かなり子だくさん	C) A Lot of Kids
+1572	<SUB>	%s　%s歳	%s　Age %s
+1573	<SUB>	@s19%s@d8%s@d8人@d8の@d8家@d8族	@s19Family of %s%s
+1580	<SUB>	%s話／%s％	Ep. %s / %s％
+1581	<SUB>	%s話／%s％	Ep. %s / %s％
+1582	<SUB>	%s話／%s％	Ep. %s / %s％
+1595	<SUB>	第%s話　%s	Episode %s　%s
+1602	<SUB>	合計所持金額	Total Savings
+1654	<SUB>	家族の記録	Family Album
+1655	<SUB>	ぼくらの家族の成長と	Our family's growth
+1656	<SUB>	思い出の写真。	and memories in photos.
+1677	<SUB>	設定	Settings
+1678	<SUB>	戻る	Back
+1679	<SUB>	字幕と音声	Subtitles & Voice
+1680	<SUB>	サウンド	Sound
+1681	<SUB>	選択文字列	Text Effect
+1682	<SUB>	四季の終わりに	At Season's End
+1683	<SUB>	イベントのない季節を	Eventless Seasons
+1684	<SUB>	字幕+音声	Subs+Voice
+1685	<SUB>	音声のみ	Voice Only
+1686	<SUB>	字幕のみ	Subs Only
+1687	<SUB>	ステレオ	Stereo
+1688	<SUB>	モノラル	Mono
+1689	<SUB>	効果１	FX 1
+1690	<SUB>	効果２	FX 2
+1691	<SUB>	効果３	FX 3
+1692	<SUB>	効果４	FX 4
+1693	<SUB>	効果５	FX 5
+1694	<SUB>	自動的に次の年に進む	Advance automatically
+1695	<SUB>	入力を待って次の年に進む	Wait for a button press
+1696	<SUB>	スキップしない	Don't Skip
+1697	<SUB>	スキップする	Skip
+1706	<SUB>	あいうえおかきくけこさしすせそ	Hello， this is a sample.
+1717	<SUB>	入金	Deposit
+1718	<SUB>	入金額	Amount
+1719	<SUB>	合計所持金額	Total Savings
+1732	<SUB>	@s20家@s4　@s20族@s4　@s20ニュース	@s20Family News
+855		comment, 232, 161, left, "@s16Merit Pay"
+856		comment, 232, 187, left, "@s16Seniority"
+857		comment, 232, 214, left, "@s16Child Aid"
+858		comment, 240, 245, left, "@s16Total Salary"
+872		comment, 236, 313, left, "@s16Total Savings"
+325	<SUB>	262,	286,
+325	<SUB>	"歳"	"yrs"
+331	<SUB>	222,	264,
+332	<SUB>	222,	264,
+345	<SUB>	219,	262,
+345	<SUB>	%s歳	%s yrs
+593	<SUB>	@s20@0歳	@s15@0yrs
+1215	<SUB>	"@s18@0%s %s"	"@s15@0%s %s"
+1238	<SUB>	"@s18@0%s %s"	"@s15@0%s %s"
+1260	<SUB>	"@s18@0%s %s"	"@s15@0%s %s"
+1282	<SUB>	"@s18@0%s %s"	"@s15@0%s %s"
+1306	<SUB>	"@s18@0%s %s"	"@s15@0%s %s"
+386	<SUB>	243,	259,
+1102	<SUB>	243,	259,
+1103	<SUB>	243,	259,
+1104	<SUB>	243,	259,
+1105	<SUB>	243,	259,
+1106	<SUB>	243,	259,
+1107	<SUB>	243,	259,
+1108	<SUB>	243,	259,
+1109	<SUB>	243,	259,
+1110	<SUB>	243,	259,
+1111	<SUB>	243,	259,
+1112	<SUB>	243,	259,
+599	<SUB>	430,	419,
+// --- layout fit pass (tools/layout_fit.py) ---
+376	<SUB>	 263,	 395,
+377	<SUB>	 263,	 395,
+378	<SUB>	 263,	 395,
+380	<SUB>	 263,	 395,
+379	<SUB>	 243,	 375,
+1203	<SUB>	 254,	 284,
+1204	<SUB>	 254,	 284,
+1205	<SUB>	 233,	 263,
+1206	<SUB>	 233,	 263,
+1207	<SUB>	 233,	 263,
+1208	<SUB>	472	487
+1218	<SUB>	365	380
+1226	<SUB>	 254,	 284,
+1227	<SUB>	 254,	 284,
+1228	<SUB>	 233,	 263,
+1229	<SUB>	 233,	 263,
+1230	<SUB>	 233,	 263,
+1231	<SUB>	 233,	 263,
+1232	<SUB>	 233,	 263,
+1233	<SUB>	 233,	 263,
+1234	<SUB>	472	487
+1241	<SUB>	365	380
+1248	<SUB>	 254,	 284,
+1249	<SUB>	 254,	 284,
+1250	<SUB>	 233,	 263,
+1251	<SUB>	 233,	 263,
+1252	<SUB>	 233,	 263,
+1253	<SUB>	 233,	 263,
+1254	<SUB>	 233,	 263,
+1255	<SUB>	 233,	 263,
+1256	<SUB>	472	487
+1263	<SUB>	365	380
+1270	<SUB>	 254,	 284,
+1271	<SUB>	 254,	 284,
+1272	<SUB>	 233,	 263,
+1273	<SUB>	 233,	 263,
+1274	<SUB>	 233,	 263,
+1275	<SUB>	 233,	 263,
+1276	<SUB>	 233,	 263,
+1277	<SUB>	472	487
+1285	<SUB>	365	380
+1294	<SUB>	 254,	 284,
+1295	<SUB>	 254,	 284,
+1296	<SUB>	 233,	 263,
+1297	<SUB>	 233,	 263,
+1298	<SUB>	 233,	 263,
+1299	<SUB>	472	487
+1309	<SUB>	365	380
+1265	<SUB>	472	487
+1311	<SUB>	472	487
+594	<SUB>	"@s18@0%s"	"@s15@0%s"
+592	<SUB>	@s20@0%s@r92@g87@b42@s18@0(%s)	@s18@0%s@r92@g87@b42@s16@0(%s)
+599	<SUB>	419,	395,
+593	<SUB>	451,	427,
+595	<SUB>	470,  32, left, "@a%d@0%s %s"	436,  33, left, "@a%d@s14@0%s %s"
+1215	<SUB>	"@s15@0%s %s"	"@s14@0%s %s"
+1238	<SUB>	"@s15@0%s %s"	"@s14@0%s %s"
+1260	<SUB>	"@s15@0%s %s"	"@s14@0%s %s"
+1282	<SUB>	"@s15@0%s %s"	"@s14@0%s %s"
+1306	<SUB>	"@s15@0%s %s"	"@s14@0%s %s"
+1472	<SUB>	@s20@r115	@s16@r115
+1472	<SUB>	@d11	@d7
+1473	<SUB>	@s17@r115	@s15@r115
+1560	<SUB>	Household Budget	Budget
+1572	<SUB>	@s18@r115	@s16@r115
+1562	<SUB>	Total Salary	Salary
+1563	<SUB>	Part-time Job	Part-time
+1564	<SUB>	Other Income	Other
+1565	<SUB>	Total Income	Income
+1566	<SUB>	Total Expenses	Expenses
+1678	<SUB>	Back""	Back"
+1684	<SUB>	string, 212, 128, center, "%s@0Subs+Voice", 148,	string, 190, 128, center, "%s@0Voice + Text", 107,
+1685	<SUB>	string, 319, 128, center, "%s@0Voice Only", 263,	string, 320, 128, center, "%s@0Voice Only", 245,
+1686	<SUB>	string, 420, 128, center, "%s@0Subs Only", 363,	string, 450, 128, center, "%s@0Text Only", 382,
+1694	<SUB>	string, 211, 272, center, "%s@0Advance automatically", 91,	string, 200, 272, center, "%s@0Auto-advance", 106,
+1695	<SUB>	string, 433, 272, center, "%s@0Wait for a button press", 300,	string, 420, 272, center, "%s@0Wait for button", 325,
+135	<SUB>	"%s"	"@s19%s"
+136	<SUB>	"%s"	"@s19%s"
+137	<SUB>	"%s"	"@s19%s"
+138	<SUB>	"%s"	"@s19%s"
+139	<SUB>	"%s"	"@s19%s"
+140	<SUB>	"%s"	"@s19%s"
+141	<SUB>	"%s"	"@s19%s"
+142	<SUB>	"%s"	"@s19%s"
+143	<SUB>	"%s"	"@s19%s"
+144	<SUB>	"%s"	"@s19%s"
+145	<SUB>	"%s"	"@s19%s"
+146	<SUB>	"%s"	"@s19%s"
+147	<SUB>	"%s"	"@s19%s"
+148	<SUB>	"%s"	"@s19%s"
+149	<SUB>	"%s"	"@s19%s"
+150	<SUB>	"%s"	"@s19%s"
+151	<SUB>	"%s"	"@s19%s"
+152	<SUB>	"%s"	"@s19%s"
+153	<SUB>	"%s"	"@s19%s"
+154	<SUB>	"%s"	"@s19%s"
+281	<SUB>	"%s"	"@s19%s"
+282	<SUB>	"%s"	"@s19%s"
+283	<SUB>	"%s"	"@s19%s"
+284	<SUB>	"%s"	"@s19%s"
+285	<SUB>	"%s"	"@s19%s"
+286	<SUB>	"%s"	"@s19%s"
+287	<SUB>	"%s"	"@s19%s"
+288	<SUB>	"%s"	"@s19%s"
+289	<SUB>	"%s"	"@s19%s"
+290	<SUB>	"%s"	"@s19%s"
+291	<SUB>	"%s"	"@s19%s"
+292	<SUB>	"%s"	"@s19%s"
+293	<SUB>	"%s"	"@s19%s"
+294	<SUB>	"%s"	"@s19%s"
+295	<SUB>	"%s"	"@s19%s"
+296	<SUB>	"%s"	"@s19%s"
+297	<SUB>	"%s"	"@s19%s"
+298	<SUB>	"%s"	"@s19%s"
+299	<SUB>	"%s"	"@s19%s"
+300	<SUB>	"%s"	"@s19%s"
+264	<SUB>	@s19Please name the baby	@s19Name the baby
+183	<SUB>	Choose a Family Album	Pick an Album
+1655	<SUB>	230, 186, left, "@s18Our family's growth"	320, 186, center, "@s18Our family's story,"
+1656	<SUB>	266, 208, left, "@s18and memories in photos."	320, 208, center, "@s18told in photos."
+798	<SUB>	420, 143	404, 143
+799	<SUB>	420, 170	404, 170
+800	<SUB>	411, 196	404, 196
+824	<SUB>	@s18Clear Rate	@s18Score
+835	<SUB>	 230,	 248,
+836	<SUB>	 230,	 248,
+840	<SUB>	icon, 285, 246	icon, 297, 246
+841	<SUB>	icon, 318, 250	icon, 330, 250
+838	<SUB>	comment, 338, 252	comment, 350, 252
+842	<SUB>	icon, 356, 250	icon, 368, 250
+839	<SUB>	comment, 377, 252	comment, 389, 252
+843	<SUB>	icon, 396, 248	icon, 408, 248
+854	<SUB>	comment, 268, 130	comment, 240, 130
+1719	<SUB>	"Total Savings"	"Savings"
+872	<SUB>	@s16Total Savings	@s16Savings
+1611	<SUB>	29	33
+568	<SUB>	 20,	 26,
+569	<SUB>	440, 234, 135,	446, 234, 129,

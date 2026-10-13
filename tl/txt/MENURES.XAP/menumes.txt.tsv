@@ -1,0 +1,300 @@
+1	000	@s22New Game
+2	001	@s22Continue
+3	002	@s22Family Album
+4	003	@s22Settings
+7	004	@s18A@d8@s19A Few Kids
+8	005	@s18B@d8@s19A Fair Few Kids
+9	006	@s18C@d8@s19A Lot of Kids
+10	007	@s18@r115@g112@b71Choose a scenario
+12	008	@s20@r115@g108@b53PRESS START BUTTON
+14	009	@s18@r115@g108@b53New Game
+16	010	@s19The couple's names are
+17	011	@s19Is this okay?
+19	012	@r119@g119@b96@s20Yes
+20	013	@r119@g119@b96@s20No
+22	014	Name the father@n@s4　@n@s20(the hero).
+23	015	@s19The hero's (father's) name
+25	016	@r119@g119@b96>>
+26	017	@r119@g119@b96<<
+27	018	@s19@r50@g70@b93Delete
+28	019	@s20@r115@g66@b56OK
+29	020	@s18ABC
+30	021	@s18Symbols
+31	022	@s18Space
+33	024	@s18Next
+34	025	@s18Prev
+36	026	@s18First
+37	027	@s18Last
+39	028	Is this name okay?
+41	029	Name the mother@n@s4　@n@s20(his wife).
+42	030	@s19The wife's (mother's) name
+44	031	@s16@r115@g108@b53Continue
+45	032	@s17@r115@g108@b53Save Data
+47	033	@r119@g119@b96Create New
+48	034	@r119@g119@b96Pick from List
+50	035	＊＊＊＊　＊＊＊＊
+52	036	@s19@r115@g108@b53Baby's Name
+53	037	@s19Baby's Name
+55	038	@s18@r115@g108@b53Save Data
+57	039	@d4@s14@r115@g115@b86Pers
+58	040	@d4@s14@r115@g115@b86Mind
+59	041	@d4@s14@r115@g115@b86Love
+60	042	@d4@s14@r115@g115@b86Drive
+61	043	@d4@s14@r115@g115@b86Body
+63	044	@s18@r115@g115@b86Lit
+64	045	@s18@r115@g115@b86Sci
+65	046	@s18@r115@g115@b86Art
+66	047	@s18@r115@g115@b86Spt
+68	048	@s15@r115@g115@b86Likes
+70	049	@s18@r74@g42@b40○@s4　@s20@r115@g115@b115To report card / school data
+71	050	@s22@r56@g71@b104×@s2　@s20@r115@g115@b115Back
+73	051	@s18@r92@g87@b42Actions
+74	052	@s16@r92@g87@b42MEMO
+75	053	@s18@r74@g42@b40○@s4　@s20@r115@g115@b115OK / Left-Right: view other kids
+76	054	@s18@r74@g42@b40○@s4　@s20@r115@g115@b115OK
+78	055	@s18View the Family Album
+80	056	@s18Do Nothing
+82	057	@r92@g87@b42@s16When?
+83	058	@r92@g87@b42@s16Comment
+84	059	@s19Left-Right: choose photo @r10@g71@b40△@r115@g115@b115Slideshow
+86	060	@s18@r92@g87@b42Action
+88	061	@d0
+89	062	@d0
+91	063	@s18@r115@g112@b71Yes
+92	064	@s18@r115@g112@b71No
+93	065	@s18Take the test?
+95	081	@s18@r115@g115@b115Save the game?
+96	082	@s18@r115@g115@b115Continue@n　playing?
+97	083	@r115@g115@b115Save or quit the game
+99	084	@s18@r119@g119@b96Yes
+100	085	@s18@r119@g119@b96No
+102	086	@s19@r115@g115@b115<　Slideshow　>
+104	087	@s16@r115@g108@b53Save / Quit
+105	088	@s18@r115@g108@b53SAVE
+107	090	@s17@r115@g115@b115Who should get a tutor?
+108	091	@s18@r115@g115@b115What should they learn?
+109	092	@s18@r115@g108@b53Tutor
+110	093	@s18@r115@g115@b115Tough humanities study
+111	094	@s18@r115@g115@b115Tricky science study
+112	095	@s18@r115@g115@b115Work hard at both
+113	096	@s18@r115@g115@b115If a child's color gauge is in the @r110@g63@b55red@r115@g115@b115，@nbig academic gains can't be expected.
+114	097	@s18@r115@g108@b71Target School
+115	098	@s18@r152@g67@b56 is lacking.@n
+116	@s18@r115@g115@b115Rethink the lessons， or think again once there are@n
+117	@d0fewer years left until graduation.
+118	099	@s18@r115@g115@b115Tuition
+119	100	@s15@r8@g8@b8Until graduation@nI'm in your care
+121	101	@s20@r112@g96@b56Goal
+125	111	@s20@r115@g112@b71Salary Review Test
+126	112	@s18@r115@g115@b115Go for it， Dad!
+127	113	Small Raise Course (Safe)
+128	114	Big Raise Course (Risky)
+129	115	@s18@r115@g112@b71Choose a course
+131	116	Merit Pay
+132	117	Seniority
+133	118	Child Aid
+134	119	Total Salary
+136	120	@s20@r115@g112@b71This Test's Results
+137	121	@s20@r112@g96@b56Goal
+138	122	@s15@r115@g115@b86Age
+139	123	@s18Savings
+140	124	@s18Total
+142	125	@s18@r115@g112@b71Part-time Income
+144	130	@s18@r92@g87@b42　　Choose a Book
+145	131	@s18@r92@g87@b42Choose a School to Apply
+146	132	@s18@r92@g87@b42Choose a Club
+147	133	@s18@r92@g87@b42Choose a Part-time Job
+148	134	@s18@r92@g87@b42Choose a Career
+149	135	@s18@r92@g87@b42Choose a School
+150	136	@s18@r92@g87@b42Choose a Career
+152	139	@s17Age 1
+153	140	@s17Infant
+154	141	@s17Toddler
+155	142	@s17Kindergartner
+156	143	@s17Elementary
+157	144	@s17Junior High
+158	145	@s17High School
+159	146	@s17College
+160	147	@s17Vocational
+161	148	@s17Cram School
+162	149	@s17Working Adult
+164	150	@s17Elementary
+165	151	@s17Junior High
+166	152	@s17High School
+168	155	Rating Analyst
+169	156	Sakura Kindergarten Teacher
+170	157	Househusband
+171	158	Housewife
+173	160	Infant
+174	161	Toddler
+175	162	Yr
+176	163	K1
+177	164	K2
+178	165	K3
+180	170	First
+181	171	Final
+182	172	 yrs in:
+183	173	Spring
+184	174	Summer
+185	175	Autumn
+186	176	Winter
+187	177	 yrs
+189	180	1st Boy
+190	181	2nd Boy
+191	182	3rd Boy
+192	183	4th Boy
+193	184	1st Girl
+194	185	2nd Girl
+195	186	3rd Girl
+196	187	4th Girl
+197	188	Child %s
+198	189	Youngest
+200	190	Married HS sweetheart
+201	191	Married a budding novelist
+202	192	Married their crush
+203	193	Married an editor
+204	194	Married a doctor
+205	195	Married a civil servant
+206	196	Finally married the tutor
+207	197	Married the shop manager
+209	200	@s15@s3　@n@s3　@s16Healthy@n@s3
+210	201	@s15@s3　@n@s16Sickly?@n@s3
+211	202	@s15@s1　@n@s5　@s15Little@n@s4　@s15Rascal@n@s3
+212	203	@s15@s3　@n　@s15Listless?@n@s3
+213	204	@s15@s9　@n@s15Hard@nWorker
+214	205	@s15@s5　@n@s16Day-@ndreamer
+215	206	@s15@s5　@n@s16Show-@n off
+216	207	@s15@s6　@n@s16Clingy@nBaby
+217	208	@s15@s3　@n@s15Old Soul@n@s3
+218	209	@s15@s3　@n@s16Rowdy@n@s3
+219	210	@s15@s3　@n@s16Lovely@n@s3
+220	211	@s15@s3　@n@s2　@s15Otaku@n@s3
+221	212	@s15@s3　@n@s2　@s15Bookworm@n@s3
+222	213	@s15@s7　@n@s15Still a@nKid
+223	214	@s15@s3　@n@s16Delinquent@n@s3
+224	215	@s15@s5　@n@s16Fashion@nCrazy
+225	216	@s15@s5　@n@s16Young at@nHeart
+227	217	@s20Nobinobi Academy@nElementary Entrance Exam
+229	220	Pregnant
+230	221	Spouse pregnant
+231	222	Has children
+233	224	@s20@s18@r115@g108@b71Entrance Exam
+234	225	@s20@s18@r115@g108@b71Exam Results
+236	230	Play
+237	231	Hobbies
+238	232	Nursing
+239	233	Sleep
+240	234	Eating
+241	235	Study
+242	236	Clubs
+243	237	Romance
+244	238	Part-time Job
+245	239	Fashion
+246	240	Work
+247	241	Family
+248	242	Kids
+253	@d0You haven't saved.@n
+254	@d0If you don't save，@n
+255	@d0this session's play data will be lost.@n
+256	@d0Quit without saving?
+259	300	@s19@r%d@g%d@b%d@0Yes　　　@r%d@g%d@b%d@0No
+263	@d0Checking the memory card (PS2) in MEMORY CARD slot 1.@n
+264	<DEL>
+265	@d0Do not remove or insert the controller or memory card (PS2).@n
+266	<DEL>
+269	@d0Formatting the memory card (PS2) in MEMORY CARD slot 1.@n
+270	<DEL>
+271	@d0Do not remove or insert the controller or memory card (PS2).@n
+272	<DEL>
+275	@d0Saving Bokura no Kazoku data to the memory card (PS2)@n
+276	@d0in MEMORY CARD slot 1.@n
+277	@d0Do not remove or insert the controller or memory card (PS2).@n
+278	<DEL>
+281	@d0Loading Bokura no Kazoku data from the memory card (PS2)@n
+282	@d0in MEMORY CARD slot 1.@n
+283	@d0Do not remove or insert the controller or memory card (PS2).@n
+284	<DEL>
+288	@d0There is no memory card (PS2) in MEMORY CARD slot 1.@n
+289	<DEL>
+290	@d0To save Bokura no Kazoku data， you need a memory card (PS2)@n
+291	@d0with at least %dKB of free space.@n
+292	<DEL>
+293	@d0Start the game anyway?
+296	@d0The memory card (PS2) in MEMORY CARD slot 1 does not have@n
+297	@d0enough free space to save Bokura no Kazoku data.@n
+298	<DEL>
+299	@d0To save， you need a memory card (PS2)@n
+300	@d0with at least %dKB of free space.@n
+301	<DEL>
+302	@d0Start the game anyway?
+305	@d0There is no memory card (PS2) in MEMORY CARD slot 1.@n
+306	<DEL>
+307	@d0To save Bokura no Kazoku data， you need a memory card (PS2)@n
+308	@d0with at least %dKB of free space.@n
+309	<DEL>
+310	@s20@r56@g71@b104×@s19@r115@g115@b115 Press the button.
+313	@d0The memory card (PS2) in MEMORY CARD slot 1 does not have@n
+314	@d0enough free space to save Bokura no Kazoku data.@n
+315	<DEL>
+316	@d0To save， you need a memory card (PS2)@n
+317	@d0with at least %dKB of free space.@n
+318	<DEL>
+319	@s20@r56@g71@b104×@s19@r115@g115@b115 Press the button.
+323	@d0You haven't saved.@n
+324	@d0If you don't save，@n
+325	@d0this session's play data will be lost.@n
+326	@d0Quit without saving?
+329	@d0Data already exists here.@n
+330	@d0If you overwrite it， the old data will be lost.@n
+331	@d0Overwrite?
+334	@d0Save new data in this slot?
+337	@d0Bokura no Kazoku data will be created on the memory card (PS2)@n
+338	@d0in MEMORY CARD slot 1.@n
+339	@d0Is that okay?
+342	@d0The memory card (PS2) in MEMORY CARD slot 1@n
+343	@d0is not formatted.@n
+344	@d0Format it?
+348	@d0There is no memory card (PS2) in MEMORY CARD slot 1.@n
+349	<DEL>
+350	@d0To cancel loading， press the @s20@r56@g71@b104×@s19@r115@g115@b115 button.
+353	@d0The memory card (PS2) in MEMORY CARD slot 1 has no@n
+354	@d0Bokura no Kazoku save data.@n
+355	@d0To cancel loading， press the @s20@r56@g71@b104×@s19@r115@g115@b115 button.
+358	@d0Save failed.@n
+359	@s20@r56@g71@b104×@s19@r115@g115@b115 Press the button.
+362	@d0Save complete.@n
+363	@r74@g42@b40○@s19@r115@g115@b115 Press the button.
+366	@d0Load failed.@n
+367	@s20@r56@g71@b104×@s19@r115@g115@b115 Press the button.
+370	@d0Format failed.@n
+371	@s20@r56@g71@b104×@s19@r115@g115@b115 Press the button.
+374	@d0Load complete.@n
+375	@r74@g42@b40○@s19@r115@g115@b115 Press the button.
+378	@d0Load this data?
+381	@d0The memory card (PS2) in MEMORY CARD slot 1 has no@n
+382	@d0Bokura no Kazoku clear data.@n
+383	@d0To cancel loading， press the @s20@r56@g71@b104×@s19@r115@g115@b115 button.
+// --- layout fit pass (tools/layout_fit.py) ---
+57	039	@d1@s14@r115@g115@b86Pers
+58	040	@d1@s14@r115@g115@b86Mind
+59	041	@d1@s14@r115@g115@b86Love
+60	042	@d1@s14@r115@g115@b86Drive
+61	043	@d1@s14@r115@g115@b86Body
+63	044	@s14@r115@g115@b86Lit
+64	045	@s14@r115@g115@b86Sci
+65	046	@s14@r115@g115@b86Art
+66	047	@s14@r115@g115@b86Spt
+70	049	@s18@r74@g42@b40○@s4　@s20@r115@g115@b115Report Card
+75	053	@s18@r74@g42@b40○@s4　@s20@r115@g115@b115OK　@s18←→@s20 Other kids
+84	059	@s19←→ Photo　　@r10@g71@b40△@r115@g115@b115 Slideshow
+131	116	@s16Merit Pay
+132	117	@s16Seniority
+133	118	@s16Child Aid
+134	119	@s16Total Pay
+175	162	@d3yr
+182	172	@d4yrs in,@d5
+221	212	@s15@s5　@n@s16Book-@nworm
+223	214	@s15@s5　@n@s16Delin-@nquent
+176	163	K1
+177	164	K2
+178	165	K3

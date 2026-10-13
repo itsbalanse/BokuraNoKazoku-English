@@ -1,0 +1,307 @@
+#------------------------------------------------------------------------------
+# Quiz definitions (English localization)
+#   level, question, answer 1, answer 2, index of the answer that scores (0 or 1)
+#   Q1: which spelling is right   Q2: what does it mean   Q3: which one is wrong
+#------------------------------------------------------------------------------
+
+
+# [1] Which spelling is right?
+
+[QUEST0]
+	C, Fluffy farm animal, １）sheap, ２）sheep, 1
+	C, Day after Monday, １）Tuesday, ２）Tuseday, 0
+	C, Yellow fruit, １）bananna, ２）banana, 1
+	C, Big boat, １）ship, ２）shipp, 0
+	C, Night bird, １）owl, ２）oul, 0
+	C, You read it, １）book, ２）buk, 0
+	C, Ocean wave, １）tide, ２）tyde, 0
+	C, Striped big cat, １）tygur, ２）tiger, 1
+	B, Opposite of up, １）down, ２）doun, 0
+	C, Pink flower, １）rows, ２）rose, 1
+	B, Water falling down, １）rain, ２）rane, 0
+	C, You sleep in it, １）bedd, ２）bed, 1
+	C, Hot drink, １）cofee, ２）coffee, 1
+	A, Number after nine, １）ten, ２）tenn, 0
+	C, Sweet frozen treat, １）ice cream, ２）ise creem, 0
+	B, Opposite of old, １）noo, ２）new, 1
+	B, A baby cat, １）kitten, ２）kiten, 0
+	A, Season after spring, １）summer, ２）sumer, 0
+	A, Red fruit, １）apul, ２）apple, 1
+	B, A lot of trees, １）forest, ２）forrist, 0
+	A, Shines at night, １）mune, ２）moon, 1
+	B, You smell with it, １）noze, ２）nose, 1
+	B, A small house pet, １）hamster, ２）hamstur, 0
+	A, Color of grass, １）green, ２）grean, 0
+	B, Flying machine, １）airplain, ２）airplane, 1
+	B, Your mom's mom, １）grandma, ２）granma, 0
+	C, Animal with a trunk, １）elefant, ２）elephant, 1
+	C, Morning meal, １）breakfast, ２）brekfast, 0
+	C, Long yellow vegetable, １）carrot, ２）carot, 0
+	C, Has eight legs, １）spidder, ２）spider, 1
+	B, Seven days, １）weak, ２）week, 1
+	C, Shiny metal coin, １）silver, ２）silvur, 0
+	C, Hopping animal, １）rabit, ２）rabbit, 1
+	B, Opposite of left, １）rite, ２）right, 1
+	A, A happy face, １）smile, ２）smyle, 0
+	B, You write with it, １）pencil, ２）pensil, 0
+	B, Number after one, １）too, ２）two, 1
+	A, Very big animal in the sea, １）whale, ２）wale, 0
+	C, A bright color, １）yellow, ２）yelow, 0
+	A, Twelve months, １）yeer, ２）year, 1
+	A, You wear them on feet, １）shoes, ２）shooz, 0
+	B, Opposite of hot, １）cold, ２）cowld, 0
+	B, A sweet baked treat, １）cookie, ２）cooky, 0
+	C, School subject with numbers, １）mathe, ２）math, 1
+	A, Grows on your head, １）hare, ２）hair, 1
+	B, It tells time, １）clock, ２）klock, 0
+	B, Frozen water, １）ice, ２）ise, 0
+	C, Insect that makes honey, １）be, ２）bee, 1
+	A, Not night， but..., １）day, ２）dey, 0
+	A, Where you learn, １）school, ２）skool, 0
+	C, Bird that can't fly, １）penguin, ２）pengwin, 0
+	A, Big body of water, １）lake, ２）laik, 0
+	B, Opposite of sad, １）happy, ２）hapy, 0
+	A, Purple fruit in bunches, １）graips, ２）grapes, 1
+	B, Helps you see, １）glasses, ２）glases, 0
+	A, Best friend animal, １）dog, ２）dogg, 0
+	A, Day before today, １）yesterday, ２）yesturday, 0
+	A, You eat soup with it, １）spune, ２）spoon, 1
+	C, Season of snow, １）winter, ２）wintur, 0
+	C, Very small， tiny, １）littel, ２）little, 1
+	A, Lights up the day, １）sun, ２）sunn, 0
+	B, Your dad's brother, １）uncle, ２）unkle, 0
+	A, Twinkles in the sky, １）star, ２）starr, 0
+	B, Bread with cheese on top, １）pizza, ２）peetsa, 0
+	A, Used to dry you off, １）tauwel, ２）towel, 1
+	C, A large bird of prey, １）eagle, ２）eegle, 0
+	A, Shape with 3 sides, １）triangle, ２）tryangle, 0
+	B, Fast animal with a mane, １）hors, ２）horse, 1
+	B, You drink from it, １）cup, ２）cupp, 0
+	B, Opposite of near, １）far, ２）farr, 0
+	A, A sticky sweet， from bees, １）honey, ２）huny, 0
+	C, A small flying insect, １）fly, ２）fligh, 0
+	B, Opposite of empty, １）ful, ２）full, 1
+	B, Musical sounds, １）musik, ２）music, 1
+	B, A big gray rain cloud, １）storm, ２）storme, 0
+	C, You see with them, １）ayes, ２）eyes, 1
+	A, A friend you love, １）buddy, ２）budy, 0
+	B, Spotted tall animal, １）giraffe, ２）jiraff, 0
+	A, Orange fruit, １）orange, ２）orinje, 0
+	A, Green vegetable tree, １）brocoli, ２）broccoli, 1
+	B, Opposite of win, １）loose, ２）lose, 1
+	A, A long snake-like fish, １）eel, ２）eal, 0
+	A, Make pictures with paint, １）paint, ２）paynt, 0
+	A, You open and close it, １）dore, ２）door, 1
+	C, Sleeps all winter, １）bear, ２）bare, 0
+	B, Ten times ten, １）hunderd, ２）hundred, 1
+	A, A very young child, １）baby, ２）babie, 0
+	A, Melts in the sun, １）snoman, ２）snowman, 1
+	B, A short sleep, １）nap, ２）napp, 0
+	C, Shells on the beach, １）seashell, ２）seeshell, 0
+	A, Lots of people together, １）crowd, ２）crowed, 0
+	A, Your hand has five, １）fingers, ２）fingurs, 0
+	B, A slow animal with a shell, １）turtle, ２）turtel, 0
+	A, Comes after first, １）secund, ２）second, 1
+
+# [2] What does it mean?
+
+[QUEST1]
+	A, Joy and sorrow, １）Happy and sad feelings, ２）A song for saying goodbye, 0
+	C, Lose face, １）A famous snack from Nagoya, ２）Lose your good name, 1
+	C, Milestone, １）A rock that weighs a mile, ２）A big step forward, 1
+	C, Pumpkin, １）Big orange vegetable, ２）Big green melon, 0
+	C, Yawn, １）Can't bend your body, ２）Big breath when sleepy, 1
+	C, Show-off, １）Someone who wants attention, ２）A cooking show, 0
+	A, A close call, １）A loud phone call, ２）Almost a disaster, 1
+	C, Odd, １）Strange or unusual, ２）Never changing, 0
+	B, Save face, １）Put on face cream, ２）Keep your dignity, 1
+	C, Under the weather, １）Feeling a bit sick, ２）Standing in the rain, 0
+	C, Scarecrow, １）A scary crow, ２）Keeps birds off crops, 1
+	C, Sunshower, １）Rain while the sun shines, ２）A plain wedding, 0
+	B, Fossil, １）Old remains in stone, ２）A cave fish, 0
+	C, Holiday, １）A big sale day, ２）A day off to celebrate, 1
+	C, Days get shorter, １）A fishing net, ２）Autumn sun sets early, 1
+	B, Wrapping cloth, １）A bath mat, ２）Square cloth to carry things, 1
+	A, Perfect timing, １）A whale spouting water, ２）Just the right moment, 1
+	C, Snow flurry, １）A cold in early spring, ２）Light snow on a fair day, 1
+	C, Flu, １）A sickness that spreads, ２）A river flowing, 0
+	B, Indian summer, １）A chilly spring day, ２）Warm days in late autumn, 1
+	B, Sash, １）Removing bugs from fields, ２）A cloth tied over clothes, 1
+	B, Monk, １）A criminal who reforms, ２）A person who trains in religion, 1
+	C, New Year rice cake, １）A treat shared at New Year, ２）A shrine opening day, 0
+	A, Adam's apple, １）Where your energy gathers, ２）A bump in your throat, 1
+	A, Piece of cake, １）Very easy, ２）A tiny dessert, 0
+	B, Break the ice, １）Make people relax, ２）Smash a frozen pond, 0
+	C, Hit the hay, １）Go to bed, ２）Work on a farm, 0
+	A, Let the cat out of the bag, １）Tell a secret, ２）Free a pet, 0
+	B, Cold feet, １）Need warm socks, ２）Feeling nervous, 1
+	A, Spill the beans, １）Make a mess at dinner, ２）Tell a secret, 1
+	C, Once in a blue moon, １）Very rarely, ２）Every night, 0
+	B, Hold your horses, １）Wait a moment, ２）Ride a horse, 0
+	A, Couch potato, １）A lazy TV watcher, ２）A sofa snack, 0
+	C, Bite the bullet, １）Do something hard bravely, ２）Eat something hard, 0
+	B, Over the moon, １）Very happy, ２）Flying in a rocket, 0
+	A, A big fish in a small pond, １）Important in a small place, ２）A lost goldfish, 0
+	C, Cost an arm and a leg, １）Very expensive, ２）A doctor's bill, 0
+	B, Sweet tooth, １）Loves sugary food, ２）A cavity, 0
+	A, Cry wolf, １）Raise a false alarm, ２）Howl at night, 0
+	C, Bookworm, １）Loves to read, ２）A bug in books, 0
+	A, Rain or shine, １）No matter what, ２）A weather report, 0
+	C, In hot water, １）In trouble, ２）Taking a bath, 0
+	B, Down to earth, １）Practical and humble, ２）Fell from the sky, 0
+	A, Under the sea, １）In the ocean, ２）Below a chair, 0
+	C, Night owl, １）Stays up late, ２）A kind of bird only, 0
+	A, Butterflies in your tummy, １）Feeling nervous, ２）Ate a bug, 0
+	B, Apple of my eye, １）A favorite person, ２）An eye doctor, 0
+	B, Bump into, １）Meet by chance, ２）Jump high, 0
+	C, Kill time, １）Pass time while waiting, ２）Break a clock, 0
+	A, A fish out of water, １）Uncomfortable， out of place, ２）A flying fish, 0
+	A, Fair-weather friend, １）Only there in good times, ２）A sunny day friend, 0
+	B, Pull someone's leg, １）Joke with someone, ２）Help someone walk, 0
+	A, On cloud nine, １）Extremely happy, ２）Lost in the sky, 0
+	A, Up in the air, １）Not decided yet, ２）On an airplane, 0
+	A, Get the ball rolling, １）Get started, ２）Play soccer, 0
+	C, Raining cats and dogs, １）Raining very hard, ２）Pets falling down, 0
+	C, The last straw, １）Final annoyance, ２）The final drink, 0
+	B, Black sheep, １）The odd one in a family, ２）A dark wool coat, 0
+	A, Lend a hand, １）Help out, ２）Shake hands, 0
+	A, Born yesterday, １）Naive， easily fooled, ２）A newborn baby, 0
+	B, Hit the books, １）Study hard, ２）Throw books, 0
+	B, Keep an eye on, １）Watch carefully, ２）Look with one eye, 0
+	A, A penny for your thoughts, １）Tell me what you think, ２）Very cheap, 0
+	B, Like two peas in a pod, １）Very much alike, ２）A vegetable dish, 0
+	A, Make ends meet, １）Have just enough money, ２）Tie a knot, 0
+	C, Speak of the devil, １）The person you mentioned arrives, ２）A scary story, 0
+	C, Steal the show, １）Get the most attention, ２）Take a TV, 0
+	B, Big cheese, １）An important person, ２）A large snack, 0
+	B, Drop a line, １）Write a short message, ２）Go fishing, 0
+	A, Sleep on it, １）Think about it overnight, ２）Lie on top of it, 0
+	C, Out of the blue, １）Suddenly， unexpectedly, ２）From the sky, 0
+	C, Paint the town red, １）Celebrate wildly, ２）Paint houses, 0
+	A, Rule of thumb, １）A general guideline, ２）A short ruler, 0
+	B, Smart cookie, １）A clever person, ２）A tasty snack, 0
+	B, Throw in the towel, １）Give up, ２）Do laundry, 0
+	C, The ball is in your court, １）It's your turn to act, ２）Go play tennis, 0
+	B, Walk on eggshells, １）Be very careful, ２）Make an omelet, 0
+	A, Under one's nose, １）Right in front of you, ２）A mustache, 0
+	A, Sit tight, １）Wait patiently, ２）Wear tight clothes, 0
+	B, All ears, １）Listening closely, ２）A rabbit, 0
+	C, Green thumb, １）Good with plants, ２）A painted finger, 0
+	A, Tie the knot, １）Get married, ２）Tie shoelaces, 0
+	A, Head in the clouds, １）Daydreaming, ２）Very tall, 0
+	B, Second nature, １）Comes naturally, ２）A second forest, 0
+	B, Feel blue, １）Feel sad, ２）Feel cold, 0
+	C, Cat nap, １）A short sleep, ２）A sleeping cat, 0
+	A, Hand-me-down, １）Used clothes passed on, ２）Dropped item, 0
+	C, Learn the ropes, １）Learn how to do a job, ２）Learn to climb, 0
+	C, Cut corners, １）Do something cheaply, ２）Make a square, 0
+	C, Sweet dreams, １）Have a good sleep, ２）Dream of candy, 0
+	A, Pass the buck, １）Blame someone else, ２）Pay money, 0
+	C, A little bird told me, １）I heard it somewhere, ２）A parrot spoke, 0
+	B, Sour grapes, １）Pretending not to want it, ２）Unripe fruit, 0
+	A, Hooked, １）Can't stop doing something, ２）Sick for three months, 0
+	A, Contrary, １）Stubborn and twisted, ２）Unlucky, 0
+	A, Devil's advocate, １）Arguing the other side on purpose, ２）A bad lawyer, 0
+	C, Grease someone's palm, １）A small bribe, ２）Unavoidable, 0
+
+# [3] Which one is wrong?
+
+[QUEST2]
+	A, Guiana, １）Highlands north of the Amazon, ２）A seed of a climbing tree, 1
+	A, Angel Falls, １）A softball pitch, ２）World's tallest waterfall, 0
+	B, Goatfish, １）An Arabian gum trading town, ２）A fish of the Pacific coast, 0
+	C, Rice maiden, １）Woman planting rice, ２）A teenage bride-to-be, 1
+	B, Ecliptic, １）South Silk Road route, ２）The sun's path in the sky, 0
+	A, Single-minded, １）A fruit that grows one per tree, ２）Charging ahead once decided, 0
+	B, Tropic of Cancer, １）Sun overhead at solstice noon, ２）Northern limit of bird migration, 1
+	B, Clover, １）Where horse-loving bugs live, ２）A pasture plant， white clover, 0
+	A, Sea hare, １）A lily that blooms in June, ２）A sea snail， a gastropod, 0
+	A, Neutrino, １）Tiny particle that passes through Earth, ２）Deep-sea bacteria found by Dr. Torino, 1
+	A, Monkey wisdom, １）Monkeys can think in groups, ２）Shallow， petty cleverness, 0
+	A, Light-year, １）Distance light travels in a year, ２）A Chinese king's birth year, 1
+	A, Skyscraper, １）Cantonese for a hotel, ２）A building that reaches the sky, 0
+	C, Beet, １）A turnip-like plant for sugar, ２）Cooking oils of Central America, 1
+	A, El Nino, １）Weather from warm Peru sea waters, ２）A Spanish tomato-eating festival, 1
+	A, Rattlesnake, １）A red and black striped snake, ２）A snake that rattles its tail, 0
+	A, Sugar cane, １）Grows sweet corn-like ears, ２）Chew its bamboo-like stem, 0
+	B, Hawksbill, １）A sea turtle used for crafts, ２）A fish only found in Madagascar, 1
+	A, Tundra, １）A snow leopard subspecies, ２）Frozen land most of the year, 0
+	A, Coke (fuel), １）A plateau in southern England, ２）Coal processed to burn well, 0
+	A, Easter Island, １）Pacific island with Moai statues, ２）Islands where yeast was found, 1
+	C, Sherry, １）A white wine from Andalusia, ２）A nut used in Normandy jam, 1
+	A, Daidarabotchi, １）A Song dynasty monk, ２）A giant from folk tales, 0
+	B, Wheelbarrow, １）An alpine flower, ２）A one-wheeled push cart, 0
+	A, Sandfish, １）A fish from northern Japan, ２）A festival decoration, 1
+	A, Turbo, １）A Norse earth god, ２）Uses exhaust to boost an engine, 0
+	C, Horsehair worm, １）A bug living on rusty iron, ２）A parasite of mantises, 0
+	B, Alpaca, １）A South American camel, ２）A Mexican sausage, 1
+	C, Baja, １）A potato bread of native people, ２）Part of Mexico by California, 0
+	C, Qanat, １）An Inuit house, ２）An underground canal in West Asia, 0
+	B, Unew, １）Ainu for fur seal, ２）A Polynesian chief, 1
+	C, Yonomori, １）A nickname for ancient forests, ２）A station in Fukushima, 0
+	C, Wadi, １）A desert caravan, ２）A riverbed that's dry except rainy season, 0
+	A, Gazelle, １）A swift antelope, ２）A kind of seaweed, 1
+	A, Oasis, １）Water in the desert, ２）A northern mountain, 1
+	B, Iceberg, １）Floating ice in the sea, ２）A frozen city, 1
+	A, Volcano, １）A mountain that erupts, ２）A Greek musical instrument, 1
+	A, Comet, １）An icy body with a tail, ２）A type of whale, 1
+	B, Tortoise, １）A land turtle, ２）A flying squirrel, 1
+	A, Coral, １）Tiny animals that form reefs, ２）A desert flower, 1
+	A, Pyramid, １）Ancient Egyptian tomb, ２）A Roman bridge, 1
+	C, Glacier, １）A huge slow river of ice, ２）A kind of bread, 1
+	B, Platypus, １）An egg-laying mammal, ２）A large bird of prey, 1
+	A, Rainbow, １）Light split by raindrops, ２）A kind of snow, 1
+	B, Kangaroo, １）Carries babies in a pouch, ２）Lives in the Arctic, 1
+	A, Thunder, １）Sound of lightning, ２）A kind of wind, 1
+	B, Penguin, １）A bird that swims, ２）A bird that flies south, 1
+	C, Sequoia, １）A giant tree, ２）A desert lizard, 1
+	A, Atlas, １）A book of maps, ２）A kind of boat, 1
+	A, Compass, １）Shows north, ２）Shows the time, 1
+	B, Octopus, １）Has eight arms, ２）Has a shell on its back, 1
+	A, Telescope, １）Shows faraway things, ２）Shows tiny germs, 1
+	C, Chameleon, １）Changes color, ２）Lives only underwater, 1
+	B, Desert, １）A dry sandy place, ２）A sweet after dinner, 1
+	A, Eclipse, １）Moon blocks the sun, ２）A kind of comet, 1
+	B, Hurricane, １）A huge tropical storm, ２）A small mountain stream, 1
+	A, Fossil fuel, １）Coal and oil, ２）Wind and sunlight, 1
+	A, Equator, １）Line around Earth's middle, ２）Line at the North Pole, 1
+	C, Mammoth, １）An ancient woolly elephant, ２）A giant spider, 1
+	B, Seahorse, １）A fish shaped like a horse, ２）A horse that swims, 1
+	A, Marathon, １）A long-distance race, ２）A kind of pasta, 1
+	B, Peninsula, １）Land almost surrounded by water, ２）A tall tower, 1
+	A, Moai, １）Stone heads on Easter Island, ２）A Hawaiian dance, 1
+	C, Cactus, １）A desert plant, ２）A tropical fish, 1
+	B, Silk, １）Thread from silkworms, ２）A kind of metal, 1
+	C, Aurora, １）Lights in the polar sky, ２）A volcano in Peru, 1
+	A, Hibernate, １）Sleep through winter, ２）Fly south, 1
+	A, Orchestra, １）A big group of musicians, ２）A large ship, 1
+	A, Archipelago, １）A group of islands, ２）A deep valley, 1
+	B, Quicksand, １）Sand that swallows things, ２）Very fine flour, 1
+	A, Ostrich, １）The biggest bird， can't fly, ２）A tiny hummingbird, 1
+	B, Bamboo, １）A fast-growing grass, ２）A kind of fish, 1
+	A, Tsunami, １）A huge sea wave, ２）A soft breeze, 1
+	C, Lava, １）Molten rock, ２）Frozen water, 1
+	B, Jellyfish, １）A sea animal that stings, ２）A jam-filled fish, 1
+	C, Sahara, １）A huge African desert, ２）A Japanese island, 1
+	A, Hanuman, １）An Indonesian costume, ２）A Hindu god, 0
+	B, Cone snail, １）A snail with strong venom, ２）A round seaweed, 1
+	C, Windsock, １）A tube-shaped flag, ２）A dyeing technique, 1
+	B, Spur, １）A rhythm tool for music, ２）A riding tool on boot heels, 0
+	A, Fjord, １）A big reindeer sled, ２）A deep inlet made by glaciers, 0
+	A, Sunspot, １）Cooler spot on the sun, ２）Losing a match, 1
+	B, Grebe, １）A diving water bird, ２）A shell used in decorations, 1
+	A, Sledgehammer, １）An early Japanese dance, ２）A big heavy hammer, 0
+	B, Cream of the crop, １）The very best of a group, ２）A wicked woman, 1
+	B, Quartz, １）A 19th-century physicist, ２）A kind of crystal, 0
+	A, Arc lamp, １）Early electric street light, ２）A bonfire lighthouse, 1
+	A, Ozone, １）A molecule of three oxygen atoms, ２）A volcanic gas, 1
+	C, Sombrero, １）A cloud in odd weather, ２）A Mexican hat, 0
+	A, Etude, １）A practice piece of music, ２）A ballet move, 1
+	B, Cordyceps, １）A good place to live, ２）A fungus used in medicine, 0
+	B, Marine snow, １）Snow over the sea, ２）Plankton bits sinking in the sea, 0
+	A, Iguana, １）A big lizard, ２）A tropical fruit, 1
+	B, Walrus, １）Has long tusks, ２）Lives in the desert, 1
+	C, Narwhal, １）A whale with a tusk, ２）A flying fish, 1
+	A, Igloo, １）A house made of snow, ２）A kind of soup, 1
+	B, Koala, １）Eats eucalyptus leaves, ２）Lives in Antarctica, 1
+	C, Mosquito, １）A biting insect, ２）A kind of flower, 1

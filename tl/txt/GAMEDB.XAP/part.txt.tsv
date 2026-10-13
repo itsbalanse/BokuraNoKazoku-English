@@ -1,0 +1,62 @@
+16	<SUB>	ラーメン屋で皿洗い	Ramen shop dishwasher
+16	<SUB>	ラーメン屋で皿洗い	Ramen shop dishwasher
+17	<SUB>	新聞配達をがんばってみる	Try delivering papers
+17	<SUB>	新聞配達のアルバイト	Paper Delivery Job
+18	<SUB>	ハンバーガー屋だもんね	Burger joint， of course
+18	<SUB>	ハンバーガー屋バイト	Burger Joint Job
+19	<SUB>	ベビーシッターで人生勉強	Learn life by babysitting
+19	<SUB>	ベビーシッター手伝い	Babysitting Helper
+20	<SUB>	コンビニの店員を経験しよう	Try convenience store work
+20	<SUB>	コンビニ店員を経験中	Convenience Store Clerk
+21	<SUB>	パン屋でお手伝いもいいかも	Help out at a bakery
+21	<SUB>	パン屋のアルバイト	Bakery Job
+22	<SUB>	モデルのバイトで美しくなる	Get pretty modeling
+22	<SUB>	モデルのアルバイト	Modeling Job
+23	<SUB>	古本屋のレジ打ちだよね	Ring up at a used bookstore
+23	<SUB>	古本屋レジ打ちバイト	Used Bookstore Cashier
+24	<SUB>	図書館でアルバイトを経験	Try a library job
+24	<SUB>	図書館でアルバイト	Library Job
+25	<SUB>	古着屋の店員もいいかもね	Work at a vintage shop
+25	<SUB>	古着屋のバイト経験中	Vintage Shop Job
+26	<SUB>	油絵モデルは勇気と根気	Painters' model: guts!
+26	<SUB>	油絵モデルのバイト	Painters' Model Job
+35	<SUB>	ラーメン屋	Ramen Shop
+36	<SUB>	新聞配達	Paper Delivery
+37	<SUB>	ハンバーガー屋	Burger Joint
+38	<SUB>	コンビニの店員	Convenience Store
+40	<SUB>	ラーメン屋	Ramen Shop
+41	<SUB>	新聞配達	Paper Delivery
+42	<SUB>	パン屋でお手伝い	Bakery Helper
+43	<SUB>	古本屋でバイト	Used Bookstore
+45	<SUB>	ラーメン屋	Ramen Shop
+46	<SUB>	新聞配達	Paper Delivery
+47	<SUB>	ベビーシッター	Babysitter
+48	<SUB>	図書館でお手伝い	Library Helper
+50	<SUB>	ラーメン屋	Ramen Shop
+51	<SUB>	新聞配達	Paper Delivery
+52	<SUB>	パン屋でお手伝い	Bakery Helper
+53	<SUB>	古着屋の店員	Vintage Shop
+55	<SUB>	ラーメン屋	Ramen Shop
+56	<SUB>	新聞配達	Paper Delivery
+57	<SUB>	コンビニの店員	Convenience Store
+58	<SUB>	古着屋の店員	Vintage Shop
+60	<SUB>	ラーメン屋	Ramen Shop
+61	<SUB>	新聞配達	Paper Delivery
+62	<SUB>	ベビーシッター	Babysitter
+63	<SUB>	図書館でお手伝い	Library Helper
+65	<SUB>	ラーメン屋	Ramen Shop
+66	<SUB>	新聞配達	Paper Delivery
+67	<SUB>	ハンバーガー屋	Burger Joint
+68	<SUB>	ちょっとモデル	Modeling
+70	<SUB>	ラーメン屋	Ramen Shop
+71	<SUB>	新聞配達	Paper Delivery
+72	<SUB>	古本屋でバイト	Used Bookstore
+73	<SUB>	油絵のモデル	Painters' Model
+// --- fit pass (tools/shorten.py) ---
+16	<SUB>	Ramen shop dishwasher	Ramen dishwasher
+16	<SUB>	Ramen shop dishwasher	Ramen dishwasher
+19	<SUB>	Learn life by babysitting	Babysit and learn
+20	<SUB>	Try convenience store work	Work at a konbini
+20	<SUB>	Convenience Store Clerk	Konbini Clerk
+23	<SUB>	Ring up at a used bookstore	Bookstore cashier
+23	<SUB>	Used Bookstore Cashier	Bookstore Cashier

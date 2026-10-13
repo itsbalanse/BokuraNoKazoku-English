@@ -1,0 +1,120 @@
+0601	$OKA$: "Eek， what a handful! $GEN$ is such a rowdy little thing."
+0602	$OKA$: "Mommy's a little worried... I wonder what's causing it."
+0603	Age-3 character type: Lovely (unused)
+0604	$OKA$: "$GEN$ started at Sakura Kindergarten."
+0605	$OKA$: "Hey， how are you feeling today?"
+0606	$GEN$: "Perfect!"
+0607	$GEN$: "I kinda... feel sick."
+0608	$GEN$: "Totally full of energy!"
+0609	$GEN$: "I'll do my best!"
+0610	$GEN$: "...I dunno."
+0611	$GEN$: "Hehe， am I too showy?"
+0612	$GEN$: "Will I be able to come every day...?"
+0613	$GEN$: "I'm kinda tired."
+0614	$GEN$: "How should I know!"
+0615	Character type: Lovely (unused)
+0616	In one more year， $GEN$ will start elementary school.
+0617	$OKA$: "What should we do about $GEN$'s elementary school?"
+0618	$GEN$: "Then I'll do my best."
+0619	$GEN$: "Will I be okay...?"
+0620	$OTO$: "Look， look closely. The clouds are moving."
+0621	$GEN$: "Where are they all going home to?"
+0622	$OTO$: "Huh? I wonder where."
+0623	$GEN$: "They're saying 'I'm hungry!'"
+0624	$GEN$: "Hey， why do people call me Genkotsu?"
+0625	$OTO$: "Because you had your hands clenched tight into fists. || But come to think of it， all babies do that."
+0626	$GEN$: "Then everybody's a Genkotsu."
+0627	$GEN$: "Poop， poop!"
+0628	$OKA$: "You can at least take off your own underpants， can't you?"
+0629	$OKA$: "Oh， you don't have to take off your socks!"
+0630	$OKA$: "Welcome home."
+0631	$GEN$: "Mommy!"
+0632	$OKA$: "What?"
+0633	$GEN$: "I got a huge booger out."
+0634	Kindergarten character type: Maybe Listless (unused)
+0635	Kindergarten character type: Lovely (unused)
+0636	It's time for $GEN$ to graduate from kindergarten.
+0637	$OTO$: "Now， what's next for $GEN$?"
+0638	$OKA$: "What should we do?"
+0639	$OKA$: "As of today， $GEN$ is an elementary schooler. || 'Full of energy! I'm gonna study tons starting tomorrow!' || ...is what he says."
+0640	$GEN$: "What are you muttering about?"
+0641	$OKA$: "As of today， $GEN$ is an elementary schooler. || 'Maybe I'm just not cut out for school life...' || ...is what he says， yes."
+0642	$GEN$: "...What are you muttering about?"
+0643	$OKA$: "$GEN$ passed the entrance exam for Nobinobi Academy Elementary! || Hooray! An elementary schooler starting today!"
+0644	$OKA$: "$GEN$ passed the entrance exam for Nobinobi Academy Elementary! || Huh， isn't he happy about it?"
+0645	Choose a book for $GEN$ to read now that he's in elementary school.
+0646	$OKA$: "Now then， what shall we choose..."
+0647	$GEN$: "Totally full of energy!"
+0648	$GEN$: "Yeah， I'll do my best!"
+0649	$GEN$: "Hmm， I dunno..."
+0650	$GEN$: "Hehe， am I too showy?"
+0651	$GEN$: "Will I be able to come every day...?"
+0652	$GEN$: "Who knows?"
+0653	$GEN$: "I can't wait to start studying!"
+0654	$OTO$: "Hey， are you running around barefoot? || Wipe your feet before you come in."
+0655	$GEN$: "My sandals are at the front door."
+0656	$OTO$: "$GEN$ isn't here."
+0657	$MOK$: "Maybe he went off dancing with the festival troupe?"
+0658	$JIJ$: "Is elementary school fun?"
+0659	$GEN$: "It's okay， I guess."
+0660	$PAN$: "What's a 'lementary school?"
+0661	$JIJ$: "It's where big kids go."
+0662	$PAN$: "If $PAN$ eats lots of rice， can $PAN$ go too?"
+0663	$GEN$: "What's wrong?"
+0664	$PAN$: "I gotta pee!"
+0665	Elementary character type: Maybe Listless (unused)
+0666	Elementary character type: Lovely (unused)
+0667	Elementary character type: Otaku (unused)
+0668	Elementary character type: Bookworm (unused)
+0669	In one more year， $GEN$ will graduate from elementary school.
+0670	$OKA$: "What should we do about $GEN$'s junior high?"
+0671	It's graduation season for $GEN$.
+0672	It looks like $GEN$ wants to get a part-time job.
+0673	$OTO$: "$GEN$ decided to start delivering newspapers."
+0674	$OTO$: "$GEN$ decided to start washing dishes at a ramen shop."
+0675	$GEN$ decided not to get a part-time job.
+0676	$OKA$: "Starting today， $GEN$ is a first-year at Suginami Junior High."
+0677	$GEN$: "Heh heh， that's right."
+0678	$OKA$: "$GEN$ became a first-year at Clever Junior High."
+0679	$GEN$: "I managed to pass!"
+0680	Choose a book for $GEN$ to read now that he's in junior high.
+0681	$GEN$: "I kinda... don't feel well."
+0682	It looks like $GEN$ wants to join a club.
+0683	$OTO$: "$GEN$ joined the track and field club."
+0684	$OTO$: "$GEN$ joined the literature club."
+0685	$GEN$ decided not to join a club.
+0686	$OTO$: "$GEN$ joined the basketball club."
+0687	$OTO$: "$GEN$ joined the crafts club."
+0688	$OTO$: "I wonder how $GEN$ is doing with his newspaper route?"
+0689	$GEN$: "I'm working hard and doing great!"
+0690	$GEN$: "Working is pretty tough..."
+0691	$OTO$: "I wonder how $GEN$ is doing with his dishwashing job at the ramen shop?"
+0692	In one more year， $GEN$ will graduate from junior high.
+0693	$OKA$: "What should we do about $GEN$'s high school?"
+0694	$GEN$: "Hey， Ma! What's for dinner?"
+0695	$OKA$: "Can't you tell by the smell?"
+0696	$GEN$: "Hey， Ma! What's that smell?"
+0697	$OKA$: "I'm not making anything that smells."
+0698	$GEN$: "Is it bread baking at the bakery...?"
+0699	$GEN$: "Hey， Ma... || why does the temple by Kannana Street bring out a portable shrine at New Year's?"
+0700	$OKA$: "It's spring right now， isn't it? Why are you asking that?"
+0701	$OTO$: "I wonder how $GEN$ is doing in the track and field club?"
+0702	$GEN$: "I'm a sprinter. Practicing every day is fun. || Depending on how I feel， my time changes by hundredths of a second."
+0703	$GEN$: "Even when I'm waiting at a crosswalk in town... || the second it turns green， I dash! That's the basics."
+0704	$OTO$: "I wonder how $GEN$ is doing in the literature club?"
+0705	$GEN$: "What's the seasonal word for summer in Tokyo? || ...Photochemical smog， maybe?"
+0706	$OTO$: "I wonder how $GEN$ is doing in the basketball club?"
+0707	$GEN$: "Doing great! I can even spin the ball on my fingertip. || What? That's got nothing to do with actual games?"
+0708	$OTO$: "I wonder how $GEN$ is doing in the crafts club?"
+0709	$GEN$: "I love making all kinds of stuff out of clay."
+0710	Junior high character type: Maybe Listless (unused)
+0711	$OKA$: "Lately， $GEN$ has turned delinquent. What is that dumb son of mine up to behind our backs?"
+0712	$OKA$: "Mommy's a little worried."
+0713	Junior high character type: Lovely (unused)
+0714	Junior high character type: Otaku (unused)
+0715	Junior high character type: Bookworm (unused)
+0716	$OTO$: "$GEN$ decided to start a part-time job at a bakery."
+0717	$OTO$: "$GEN$ decided to start a part-time job at a used bookstore."
+0718	$OTO$: "$GEN$ became a first-year at Musashino Minami High."
+0719	$OTO$: "$GEN$ became a first-year at Ace Academy."
+0720	Choose a book for $GEN$ to read now that he's in high school.

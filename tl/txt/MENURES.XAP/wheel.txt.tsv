@@ -1,0 +1,94 @@
+37	<SUB>	"遊び"	"Play"
+38	<SUB>	"趣味"	"Hobby"
+39	<SUB>	"おっぱい"	"Milk"
+40	<SUB>	"寝る"	"Sleep"
+46	<SUB>	"遊び"	"Play"
+47	<SUB>	"趣味"	"Hobby"
+48	<SUB>	"食べる"	"Eat"
+49	<SUB>	"寝る"	"Sleep"
+55	<SUB>	"遊び"	"Play"
+56	<SUB>	"勉強"	"Study"
+57	<SUB>	"趣味"	"Hobby"
+58	<SUB>	"食べる"	"Eat"
+59	<SUB>	"寝る"	"Sleep"
+65	<SUB>	"遊び"	"Play"
+66	<SUB>	"勉強"	"Study"
+67	<SUB>	"趣味"	"Hobby"
+68	<SUB>	"部活"	"Club"
+69	<SUB>	"恋愛"	"Love"
+70	<SUB>	"バイト"	"Job"
+76	<SUB>	"遊び"	"Play"
+77	<SUB>	"勉強"	"Study"
+78	<SUB>	"趣味"	"Hobby"
+79	<SUB>	"部活"	"Club"
+80	<SUB>	"恋愛"	"Love"
+81	<SUB>	"バイト"	"Job"
+82	<SUB>	"おしゃれ"	"Style"
+88	<SUB>	"遊び"	"Play"
+89	<SUB>	"勉強"	"Study"
+90	<SUB>	"趣味"	"Hobby"
+91	<SUB>	"恋愛"	"Love"
+92	<SUB>	"バイト"	"Job"
+93	<SUB>	"おしゃれ"	"Style"
+99	<SUB>	"遊び"	"Play"
+100	<SUB>	"勉強"	"Study"
+101	<SUB>	"趣味"	"Hobby"
+102	<SUB>	"恋愛"	"Love"
+103	<SUB>	"仕事"	"Work"
+104	<SUB>	"おしゃれ"	"Style"
+110	<SUB>	"遊び"	"Play"
+111	<SUB>	"勉強"	"Study"
+112	<SUB>	"趣味"	"Hobby"
+113	<SUB>	"家庭"	"Home"
+114	<SUB>	"仕事"	"Work"
+115	<SUB>	"おしゃれ"	"Style"
+121	<SUB>	"遊び"	"Play"
+122	<SUB>	"勉強"	"Study"
+123	<SUB>	"趣味"	"Hobby"
+124	<SUB>	"子供"	"Kids"
+125	<SUB>	"家庭"	"Home"
+126	<SUB>	"仕事"	"Work"
+127	<SUB>	"おしゃれ"	"Style"
+133	<SUB>	"遊び"	"Play"
+134	<SUB>	"勉強"	"Study"
+135	<SUB>	"趣味"	"Hobby"
+136	<SUB>	"子供"	"Kids"
+137	<SUB>	"バイト"	"Job"
+138	<SUB>	"おしゃれ"	"Style"
+144	<SUB>	"遊び"	"Play"
+145	<SUB>	"勉強"	"Study"
+146	<SUB>	"趣味"	"Hobby"
+147	<SUB>	"子供"	"Kids"
+148	<SUB>	"家庭"	"Home"
+149	<SUB>	"バイト"	"Job"
+150	<SUB>	"おしゃれ"	"Style"
+156	<SUB>	"遊び"	"Play"
+157	<SUB>	"勉強"	"Study"
+158	<SUB>	"趣味"	"Hobby"
+159	<SUB>	"子供"	"Kids"
+160	<SUB>	"仕事"	"Work"
+161	<SUB>	"おしゃれ"	"Style"
+// --- layout fit pass (tools/layout_fit.py) ---
+38	<SUB>	539, 355	513, 355
+47	<SUB>	539, 355	513, 355
+56	<SUB>	535, 366	518, 366
+66	<SUB>	535, 337	518, 337
+67	<SUB>	535, 373	513, 373
+77	<SUB>	535, 364	518, 364
+89	<SUB>	535, 337	518, 337
+90	<SUB>	535, 373	513, 373
+93	<SUB>	411, 337	414, 337
+100	<SUB>	535, 337	518, 337
+101	<SUB>	535, 373	513, 373
+104	<SUB>	411, 337	414, 337
+111	<SUB>	535, 337	518, 337
+112	<SUB>	535, 373	513, 373
+115	<SUB>	411, 337	414, 337
+122	<SUB>	535, 364	518, 364
+134	<SUB>	535, 337	518, 337
+135	<SUB>	535, 373	513, 373
+138	<SUB>	411, 337	414, 337
+145	<SUB>	535, 364	518, 364
+157	<SUB>	535, 337	518, 337
+158	<SUB>	535, 373	513, 373
+161	<SUB>	411, 337	414, 337

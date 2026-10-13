@@ -1,0 +1,2 @@
+Put a BIOS dump from your own PlayStation 2 console in this folder (any file name).
+The launcher selects it automatically.

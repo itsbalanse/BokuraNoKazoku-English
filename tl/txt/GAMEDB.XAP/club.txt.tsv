@@ -1,0 +1,102 @@
+15	<SUB>	陸上部で走りまわれ！	Run wild in track!
+15	<SUB>	陸上競技部所属	Track & Field Club
+16	<SUB>	バレー部でアタ～ック！	Volleyball - attaaack!
+16	<SUB>	バレー部所属	Volleyball Club
+17	<SUB>	文芸部はワビサビだよね	Literature club is so zen
+17	<SUB>	文芸部所属	Literature Club
+19	<SUB>	バスケ部で大活躍！	Star in basketball!
+19	<SUB>	バスケ部所属	Basketball Club
+20	<SUB>	卓球部はピンポン！	Table tennis - ping pong!
+20	<SUB>	卓球部所属	Table Tennis Club
+21	<SUB>	工芸部で創造性を燃やそう	Get creative in crafts
+21	<SUB>	工芸部所属	Crafts Club
+23	<SUB>	水泳部でイルカになる	Be a dolphin in swimming
+23	<SUB>	水泳部所属	Swim Team
+24	<SUB>	園芸部で花を咲かせましょ	Grow flowers in gardening
+24	<SUB>	園芸部所属	Gardening Club
+25	<SUB>	漫画研究部にはまってみる	Get hooked on manga club
+25	<SUB>	漫画研究部所属	Manga Club
+27	<SUB>	野球部でヒーローになる	Be a baseball hero
+27	<SUB>	野球部所属	Baseball Team
+28	<SUB>	サッカー部でキック！	Soccer - kick it!
+28	<SUB>	サッカー部所属	Soccer Team
+29	<SUB>	パソコン部で暗躍する	Lurk in computer club
+29	<SUB>	パソコン部所属	Computer Club
+31	<SUB>	弓道部で精神統一！	Focus the mind in archery!
+31	<SUB>	弓道部所属	Archery Club
+32	<SUB>	美術部でがんばるもんね	Do my best in art club
+32	<SUB>	美術部所属	Art Club
+33	<SUB>	演劇部で演劇少女だよ	Drama girl in drama club
+33	<SUB>	演劇部所属	Drama Club
+44	<SUB>	陸上競技部	Track & Field
+45	<SUB>	バレーボール部	Volleyball
+46	<SUB>	バスケットボール部	Basketball
+47	<SUB>	卓球部	Table Tennis
+48	<SUB>	水泳部	Swimming
+49	<SUB>	園芸部	Gardening
+50	<SUB>	野球部	Baseball
+51	<SUB>	パソコン部	Computer
+53	<SUB>	陸上競技部	Track & Field
+54	<SUB>	文芸部	Literature
+55	<SUB>	バスケットボール部	Basketball
+56	<SUB>	工芸部	Crafts
+57	<SUB>	園芸部	Gardening
+58	<SUB>	漫画研究部	Manga
+59	<SUB>	サッカー部	Soccer
+60	<SUB>	パソコン部	Computer
+62	<SUB>	陸上競技部	Track & Field
+63	<SUB>	文芸部	Literature
+64	<SUB>	卓球部	Table Tennis
+65	<SUB>	工芸部	Crafts
+66	<SUB>	園芸部	Gardening
+67	<SUB>	漫画研究部	Manga
+68	<SUB>	野球部	Baseball
+69	<SUB>	パソコン部	Computer
+71	<SUB>	バレーボール部	Volleyball
+72	<SUB>	文芸部	Literature
+73	<SUB>	バスケットボール部	Basketball
+74	<SUB>	工芸部	Crafts
+75	<SUB>	水泳部	Swimming
+76	<SUB>	漫画研究部	Manga
+77	<SUB>	サッカー部	Soccer
+78	<SUB>	パソコン部	Computer
+80	<SUB>	バレーボール部	Volleyball
+81	<SUB>	文芸部	Literature
+82	<SUB>	バスケットボール部	Basketball
+83	<SUB>	卓球部	Table Tennis
+84	<SUB>	水泳部	Swimming
+85	<SUB>	園芸部	Gardening
+86	<SUB>	美術部	Art
+87	<SUB>	演劇部	Drama
+89	<SUB>	バレーボール部	Volleyball
+90	<SUB>	文芸部	Literature
+91	<SUB>	卓球部	Table Tennis
+92	<SUB>	工芸部	Crafts
+93	<SUB>	水泳部	Swimming
+94	<SUB>	漫画研究部	Manga
+95	<SUB>	弓道部	Archery
+96	<SUB>	美術部	Art
+98	<SUB>	陸上競技部	Track & Field
+99	<SUB>	文芸部	Literature
+100	<SUB>	バスケットボール部	Basketball
+101	<SUB>	工芸部	Crafts
+102	<SUB>	水泳部	Swimming
+103	<SUB>	園芸部	Gardening
+104	<SUB>	弓道部	Archery
+105	<SUB>	演劇部	Drama
+107	<SUB>	陸上競技部	Track & Field
+108	<SUB>	バレーボール部	Volleyball
+109	<SUB>	卓球部	Table Tennis
+110	<SUB>	工芸部	Crafts
+111	<SUB>	園芸部	Gardening
+112	<SUB>	漫画研究部	Manga
+113	<SUB>	弓道部	Archery
+114	<SUB>	美術部	Art
+// --- fit pass (tools/shorten.py) ---
+17	<SUB>	Literature club is so zen	Literature is so zen
+20	<SUB>	Table tennis - ping pong!	Ping pong time!
+23	<SUB>	Be a dolphin in swimming	Swim like a dolphin
+24	<SUB>	Grow flowers in gardening	Make flowers bloom
+25	<SUB>	Get hooked on manga club	Get hooked on manga
+31	<SUB>	Focus the mind in archery!	Focus in archery!
+33	<SUB>	Drama girl in drama club	Be a drama girl

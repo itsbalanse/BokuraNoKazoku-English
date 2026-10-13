@@ -1,0 +1,14 @@
+# never commit game data, BIOS or build output
+*.iso
+*.bin
+*.BIN
+*.p2s
+extracted/
+build/
+font/
+tex/
+tl/events/chunk_*.txt
+tl/events_index.json
+tools/lz.dll
+*.exe
+__pycache__/

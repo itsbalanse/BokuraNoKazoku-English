@@ -1,0 +1,18 @@
+Original ISO (Redump, SCPS-15088 v1.00)
+  Bokura no Kazoku - My Family Growing Up in the 21st Century (Japan).iso
+  Size  2091941888
+  CRC32 9d389b7c
+  MD5   ab2edd392d190f21b2112d67219d4ea5
+  SHA1  f2a8187457148a66fbbb3841032fe430cb5572d4
+
+Patch
+  BokuraNoKazoku_English.bps (v1.0)
+  CRC32 2144df1c
+  SHA1  e6ca56b9083dab63760e5def28df475c6837af05
+
+Patched ISO
+  Bokura no Kazoku (English).iso
+  Size  2091941888
+  CRC32 43e9cbf0
+  MD5   8ceac104b72ab0889ba50552345d3a2b
+  SHA1  3c4e5fc0c88f509c07e422f407e81c21cea97e04

@@ -1,0 +1,138 @@
+5		@d0You went to $USER$@nwith $MAIN$.
+6	<DEL>
+9		@d0Everyone went to@n$USER$.
+10	<DEL>
+13		@d0$MAIN$ became a little more outgoing.
+16		@d0Everyone became a little more outgoing.
+22		@d0You went to $USER$@nwith $MAIN$.
+23	<DEL>
+26		@d0Everyone went to@n$USER$.
+27	<DEL>
+30		@d0$MAIN$ grew up@na little.
+31	<DEL>
+34		@d0Everyone grew up a little.
+40		@d0You went to $USER$@nwith $MAIN$.
+41	<DEL>
+44		@d0Everyone went to@n$USER$.
+45	<DEL>
+48		@d0$MAIN$ became a little kinder.
+51		@d0Everyone became a little kinder.
+57		@d0You went to $USER$@nwith $MAIN$.
+58	<DEL>
+61		@d0Everyone went to@n$USER$.
+62	<DEL>
+65		@d0$MAIN$ gained some drive.
+68		@d0Everyone gained a little drive.
+74		@d0You went to $USER$@nwith $MAIN$.
+75	<DEL>
+78		@d0Everyone went to@n$USER$.
+79	<DEL>
+82		@d0$MAIN$'s stamina went up.
+85		@d0Everyone's stamina went up.
+91		@d0You went to $USER$@nwith $MAIN$.
+92	<DEL>
+95		@d0Everyone went to@n$USER$.
+96	<DEL>
+99		@d0$MAIN$ became a little more introverted.
+102		@d0Everyone became a little more introverted.
+108		@d0You relaxed at home with $MAIN$@nfor the first time in a while.
+109	<DEL>
+112		@d0Everyone relaxed at home together@nfor the first time in a while.
+113	<DEL>
+116		@d0$MAIN$ became a little more introverted.
+119		@d0Everyone became a little more introverted.
+125		@d0$USER$'s humanities skills@nwent up a little.
+126	<DEL>
+132		@d0$USER$'s science skills@nwent up a little.
+133	<DEL>
+139		@d0$USER$'s artistic sense@nwent up a little.
+140	<DEL>
+146		@d0$USER$'s sports value went up a little@nand their reflexes improved.
+147	<DEL>
+153		@d0Maybe the ramen was too good -@n$MAIN$ ate a little too much.@n
+154	<DEL>
+155	<DEL>
+158		@d0For some reason， $MAIN$ became@na little bit delinquent.@n
+159	<DEL>
+162		@d0After reading too many books，@n$MAIN$ became a little listless.@n
+163	<DEL>
+166		@d0The food was so good that@n$MAIN$ seems to have overeaten.@n
+167	<DEL>
+170		@d0Ugh， so full!@n$MAIN$ ate a little too much.@n
+171	<DEL>
+172	<DEL>
+175		@d0Surrounded by beautiful flowers，@n$MAIN$ became a little listless.@n
+176	<DEL>
+179		@d0Worn out from walking，@n$MAIN$'s stamina dropped a little.@n
+180	<DEL>
+183		@d0Tired from playing，@n$MAIN$ became kind of listless.@n
+184	<DEL>
+187		@d0Maybe from all the shopping，@n$MAIN$ got a little tired.@n
+188	<DEL>
+191		@d0$MAIN$ played too much and@nbecame a little more childish.@n
+192	<DEL>
+195		@d0Tired from walking around，@n$MAIN$ became a bit listless.@n
+196	<DEL>
+199		@d0After playing innocently，@n$MAIN$ became a bit more childish.@n
+200	<DEL>
+203		@d0After playing too much at the beach，@n$MAIN$ was listless for a while.@n
+204	<DEL>
+207		@d0After playing to their heart's content，@n$MAIN$ became a bit more childish.@n
+208	<DEL>
+211		@d0After having fun at the botanical garden，@n$MAIN$ got a little tired.@n
+212	<DEL>
+215		@d0$MAIN$ seems to have gotten@na bit tired in the crowds.@n
+216	<DEL>
+219		@d0After dancing with everyone，@n$MAIN$ was completely@nexhausted.@n
+220	<DEL>
+221	<DEL>
+224		@d0Maybe from seeing so much pretty scenery，@n$MAIN$ became a little listless.@n
+225	<DEL>
+228		@d0After running around the park，@n$MAIN$ got tired and a little listless.@n
+229	<DEL>
+232		@d0Unable to understand the art，@n$MAIN$ felt a little sad.@n
+233	<DEL>
+236		@d0After having fun playing，@n$MAIN$ became a bit more childish.@n
+237	<DEL>
+240		@d0Tired from walking around，@n$MAIN$ became a bit of a rebel.@n
+241	<DEL>
+244		@d0Tired from touring the sights，@n$MAIN$ sulked a little.@n
+245	<DEL>
+248		@d0After walking around the huge park，@n$MAIN$ got tired and listless.@n
+249	<DEL>
+252		@d0It seems $MAIN$ has@nplayed themselves out.@n
+253	<DEL>
+256		@d0It seems $MAIN$ played too much@nand got a little tired.@n
+257	<DEL>
+260		@d0Tired from mountain climbing，@n$MAIN$ became a little listless.@n
+261	<DEL>
+266		@d0Test message
+// --- layout fit pass (tools/layout_fit.py) ---
+11		@d0$MAIN$ became a@nlittle more outgoing.
+14		@d0Everyone became a@nlittle more outgoing.
+44		@d0Everyone became@na little kinder.
+86		@d0$MAIN$ became a@nlittle more introverted.
+89		@d0Everyone became a@nlittle more introverted.
+95		@d0You relaxed at home@nwith $MAIN$ for the@nfirst time in a while.
+98		@d0Everyone relaxed at@nhome together for the@nfirst time in a while.
+101		@d0$MAIN$ became a@nlittle more introverted.
+104		@d0Everyone became a@nlittle more introverted.
+128		@d0$USER$'s sports value@nwent up a little and their@nreflexes improved.
+134		@d0Maybe the ramen was too good@n- $MAIN$ ate a little too much.@n
+137		@d0For some reason， $MAIN$@nbecame a little bit delinquent.@n
+140		@d0After reading too@nmany books， $MAIN$@nbecame a little listless.
+143		@d0The food was so good@nthat $MAIN$ seems@nto have overeaten.
+149		@d0Surrounded by beautiful@nflowers， $MAIN$@nbecame a little listless.
+152		@d0Worn out from walking，@n$MAIN$'s stamina@ndropped a little.
+155		@d0Tired from playing， $MAIN$@nbecame kind of listless.@n
+167		@d0After playing innocently，@n$MAIN$ became a bit@nmore childish.
+170		@d0After playing too much@nat the beach， $MAIN$@nwas listless for a while.
+173		@d0After playing to their@nheart's content， $MAIN$@nbecame a bit more childish.
+176		@d0After having fun at the@nbotanical garden，@n$MAIN$ got a little tired.
+185		@d0Maybe from seeing so much@npretty scenery， $MAIN$@nbecame a little listless.
+188		@d0After running around@nthe park， $MAIN$ got@ntired and a little listless.
+194		@d0After having fun playing，@n$MAIN$ became a bit@nmore childish.
+197		@d0Tired from walking@naround， $MAIN$@nbecame a bit of a rebel.
+203		@d0After walking around@nthe huge park， $MAIN$@ngot tired and listless.
+209		@d0It seems $MAIN$ played too@nmuch and got a little tired.@n
+212		@d0Tired from mountain@nclimbing， $MAIN$@nbecame a little listless.

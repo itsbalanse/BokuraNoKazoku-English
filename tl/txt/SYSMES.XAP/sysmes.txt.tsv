@@ -1,0 +1,18 @@
+2	1000	Take a gap year
+4	1001	Get a job
+6	1002	No club
+8	1003	No part-time job
+10	1004	Back
+12	1005	Kawai Juku (cram school)
+14	1006	Gap year without cram school
+16	1007	No gap year after all
+18	1008	Go on to school after all
+20	1010	@r115@g108@b53@s20Family News
+22	1020	，
+24	1021	Everyone
+// --- fit pass (tools/shorten.py) ---
+2	<SUB>	Take a gap year	Gap year
+12	<SUB>	Kawai Juku (cram school)	Kawai Juku (cram)
+14	<SUB>	Gap year without cram school	Self-study gap year
+16	<SUB>	No gap year after all	Skip the gap year
+18	<SUB>	Go on to school after all	Enroll after all

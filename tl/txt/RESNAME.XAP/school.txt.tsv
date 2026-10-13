@@ -1,0 +1,11 @@
+9	<SUB>	高円寺小学校（Ａ小）	Koenji Elementary
+10	<SUB>	のびのび学園（Ｂ小）	Nobinobi Academy
+12	<SUB>	杉並第一中（Ａ中）	Suginami No.1 Jr. High
+13	<SUB>	クレバー学園中（Ｂ中）	Clever Academy Jr. High
+14	<SUB>	清星女学院中等部（Ｃ中）	Seisei Girls' Jr. High
+16	<SUB>	武蔵野南高（Ａ高）	Musashino Minami High
+17	<SUB>	エース学園（Ｂ高）	Ace Academy
+18	<SUB>	清星女学院高等部（Ｃ高）	Seisei Girls' High
+// --- fit pass (tools/shorten.py) ---
+9	<SUB>	Koenji Elementary	Koenji Elem.
+10	<SUB>	Nobinobi Academy	Nobinobi Elem.
